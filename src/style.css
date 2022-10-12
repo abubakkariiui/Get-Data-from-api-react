@@ -1,0 +1,8 @@
+.App {
+  font-family: 'IBM Plex Sans', sans-serif;
+  text-align: center;
+}
+
+button {
+  font-family: inherit;
+}
